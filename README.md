@@ -11,9 +11,9 @@ If you want to use anything on here, feel free. It's probably crap<br>
 but at least it's something. If you use any of my projects, just be<br>
 sure to mention me or something, although I'm not too<br>
 concerned about that. You can just up and steal my stuff you<br>
-ass, but I suppose it'd be nice to have a little recognition.<br>
+asshole, but I suppose it'd be nice to have a little recognition.<br>
 <br>
-I'm currently working on a Marching Cubes project.<br>
+I'm currently working on learning more C++ and C#.<br>
 Figuring out how to do that has been fun.
 </p>
 <!--- <h3>Means of Contact</h3>
