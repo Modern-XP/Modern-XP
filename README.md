@@ -6,7 +6,7 @@ is my hobby and the other is spelling.<br>
 <br>
 I'm just here to have fun and make things for <b><i>k n o w l e d g e</i></b>.<br>
 If you want to use anything on here, feel free. It's probably crap<br>
-but at least it's something. My work is Creative Commons.<br>
+but at least it's something.<br>
 Most of my works are under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0 license.</a><br>
 Essentially, just credit me for my work if you use it.<br>
 <br>
